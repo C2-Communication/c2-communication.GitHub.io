@@ -9,7 +9,7 @@ del S:\HP-compiling\pelican\test\pelicanconf.py
 echo Test:Delete End
 echo Test:Copy Start
 
-xcopy S:\HP-Release\Gov\site S:\HP-compiling\pelican\test /E /F
+xcopy S:\HP-Release\Country-Government\site S:\HP-compiling\pelican\test /E /F
 
 echo Test:Copy End
 echo Test:Start
