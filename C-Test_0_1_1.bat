@@ -1,4 +1,4 @@
-echo Test:Delete content、pelicanconf.py
+echo Test:Delete content,pelicanconf.py
 
 cd C:\HP-compiling\pelican\test
 C:
@@ -16,9 +16,9 @@ echo Test:Start
 
 cd C:\HP-compiling\pelican\test
 pelican
-cd ./output 
+cd ./output
 
-echo Test:WEB Serves Start 
+echo Test:WEB Serves Start
 
 python -m http.server
 
