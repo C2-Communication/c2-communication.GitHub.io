@@ -12,6 +12,7 @@ DEFAULT_LANG = 'ja'
 DISPLAY_CATEGORIES_ON_MENU = None
 MENUITEMS = (
     ('Home', '/'),
+    ('Resume', 'https://sunshubin.sb-hrms.com/'),
     ('About', 'https://home.sb-hrms.com/pages/about.html'),
     ('Resource', 'https://home.sb-hrms.com/pages/resource.html'),
     ('Reference', 'https://github.com/SB-Country/Government/tree/main/Site/content/posts'),
